@@ -7,4 +7,4 @@ As the legends say, ***"The best way to learn is to teach"***, I wrote all these
 
 You can find complete documentation for this on my [medium](https://medium.com/@tejas.kand.45) profile.
 
-All the source code used in this documentation can be found in the scripts folder, including the windows executable.
+All the source code used in this documentation can be found in the [scripts](/scripts/) folder, including the windows executable.
