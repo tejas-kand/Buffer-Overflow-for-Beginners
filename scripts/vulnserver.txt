@@ -1,0 +1,21 @@
+nc 10.0.2.7 9999  
+Welcome to Vulnerable Server! Enter HELP for help.
+HELP
+Valid Commands:
+HELP
+STATS [stat_value]
+RTIME [rtime_value]
+LTIME [ltime_value]
+SRUN [srun_value]
+TRUN [trun_value]
+GMON [gmon_value]
+GDOG [gdog_value]
+KSTET [kstet_value]
+GTER [gter_value]
+HTER [hter_value]
+LTER [lter_value]
+KSTAN [lstan_value]
+EXIT
+
+EXIT
+GOODBYE
